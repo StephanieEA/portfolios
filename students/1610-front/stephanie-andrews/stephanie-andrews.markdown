@@ -9,7 +9,7 @@ I sought to develop my technical and problem solving skills.  I wanted to get a 
 Fill in how you would grade yourself from 1-4 in the following categories this module:
 
 * **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 2(incomplete)
+* **B: Individual Work & Projects**: 2
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
