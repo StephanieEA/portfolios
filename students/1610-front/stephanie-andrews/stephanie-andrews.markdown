@@ -171,7 +171,7 @@ It's important to be mindful of each others' differences and how our environment
 #### Resilience
 * https://github.com/turingschool/gear-up/blob/master/resilience.markdown
 My takeaways:
-Resilience is incredibly important but it's important to consider it as more of a skill set than some sort of fixed variable.  You never know someone's experience or background and what one person might deem as not being resilient might be the epitome of resilience for someone else who has experienced trauma.  Strategies like mindfulness and reframing thinking can help build resilience skills.    
+Resilience is incredibly important.  It is important to consider it as more of a skill set than some sort of fixed variable.  You never know someone's experience or background and what one person might deem as not being resilient might be the epitome of resilience for someone else who has experienced trauma.  Strategies like mindfulness and reframing thinking can help build resilience skills.    
 
 ### Professional Development Workshops
 
